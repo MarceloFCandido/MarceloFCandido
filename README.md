@@ -3,15 +3,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcelofcandido&label=Profile%20views&color=0e75b6&style=flat" alt="marcelofcandido" /> </p>
 
-<p align="center">- I currently work at <a href="https://porter.run">Porter</a> as a DevOps Engineer in the Support Team.</p>
-<p align="center">- I’m currently learning <b>Golang, Python, Bash, Kubernetes</b>, and other DevOps tools</p>.
-<p align="center">- Check about my experiences on my <a href="https://linkedin.com/in/marcelofcandido">LinkedIn</a></p>.
+<p align="left">- I currently work at <a href="https://porter.run">Porter</a> as a DevOps Engineer in the Support Team.</p>
+<p align="left">- I’m currently learning <b>Golang, Python, Bash, Kubernetes</b>, and other DevOps tools.</p>
+<p align="left">- Check about my experiences on my <a href="https://linkedin.com/in/marcelofcandido">LinkedIn</a>.</p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/marcelofcandido" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="marcelofcandido"
       height="30"
@@ -19,7 +19,7 @@
   /></a>
   <a href="https://hashnode.com/@marcelofcandido" target="blank"
     ><img
-      align="center"
+      align="left"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
       alt="@marcelofcandido"
       height="30"
@@ -27,10 +27,10 @@
   /></a>
 </p>
 
-<h3 align="center">Stack</h3>
+<h3 align="left">Stack</h3>
 
-<h4 align="center">Cloud</h4>
-<p align="center">
+<h4 align="left">Cloud</h4>
+<p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
@@ -57,8 +57,8 @@
   </a>
 </p>
 
-<h4 align="center">Databases</h4>
-<p align="center">
+<h4 align="left">Databases</h4>
+<p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original.svg"
@@ -101,8 +101,8 @@
   </a>
 </p>
 
-<h4 align="center">Languages</h4>
-<p align="center">
+<h4 align="left">Languages</h4>
+<p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
@@ -141,8 +141,8 @@
   </a>
 </p>
 
-<h4 align="center">Tools</h4>
-<p align="center">
+<h4 align="left">Tools</h4>
+<p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"
@@ -217,8 +217,8 @@
   </a>
 </p>
 
-<h4 align="center">Frameworks/Libraries</h4>
-<p align="center">
+<h4 align="left">Frameworks/Libraries</h4>
+<p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"
@@ -245,17 +245,17 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofcandido&show_icons=true&locale=en&layout=compact&hide=verilog,tex,stata,jupyter%20notebook,c%2B%2B,makefile"
     alt="marcelofcandido"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=marcelofcandido&"
     alt="marcelofcandido"
   />
